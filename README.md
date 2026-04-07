@@ -47,3 +47,36 @@ This project performs an end-to-end sales analysis using the Superstore dataset.
 
 ## Author
 Yara — Data Analyst (Entry Level)    
+
+---
+
+# Superstore Verkaufsanalyse (Deutsch)
+
+## Projektübersicht
+Dieses Projekt beinhaltet eine vollständige Verkaufsdatenanalyse mit dem Superstore-Datensatz. Ziel ist es, geschäftliche Erkenntnisse, Kundenverhalten und saisonale Trends mit Python zu identifizieren.
+
+## Ziele
+- Analyse der Gesamtumsätze
+- Identifikation saisonaler Trends
+- Top-Kunden erkennen
+- Kunden-Segmentierung analysieren
+- Best- und schwachverkaufte Produkte finden
+- Visualisierung von Verkaufsmustern
+
+## Verwendete Tools
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+
+## Wichtigste Erkenntnisse
+- Umsätze steigen im letzten Quartal des Jahres
+- Technologie-Kategorie generiert den höchsten Umsatz
+- Consumer-Segment dominiert
+- Saisonale Nachfrage im Q4 sichtbar
+- Einige Produkte zeigen sehr geringe Verkaufszahlen
+
+## Autor
+Yara — Data Analyst
