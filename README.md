@@ -46,7 +46,7 @@ This project performs an end-to-end sales analysis using the Superstore dataset.
 - Dashboard using Power BI or Tableau
 
 ## Author
-Yara — Data Analyst (Entry Level)    
+Yara — Data Analyst   
 
 ---
 
