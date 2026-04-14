@@ -38,6 +38,57 @@ This project performs an end-to-end sales analysis using the Superstore dataset.
 - Seasonal demand visible in Q4
 - Some products show very low sales performance
 
+  ## Data Visualizations
+
+Below are the key visualizations created during the analysis.
+
+---
+
+## 1. Sales by Category, Sub-Category, and Region
+![Category Sales](images/sales_by_category.png)
+![Sub-Category Sales](images/sales_by_subcategory.png)
+![Region Sales](images/sales_by_region.png)
+
+---
+
+## 2. Top 10 Selling Products
+![Top 10 Products](images/top_10_selling_products.png)
+
+---
+
+## 3. Least Selling Products
+![Least Selling Products](images/top_10_least_selling_products.png)
+
+---
+
+## 4. Monthly Sales Trend
+![Monthly Sales Trend](images/monthly_sales_trend.png)
+
+---
+
+## 5. Moving Average Trend (3-Month)
+![Moving Average](images/monthly_sales_with_moving_average.png)
+
+---
+
+## 6. Linear Regression Forecast
+![Linear Regression Forecast](images/monthly_sales_forecast.png)
+
+---
+
+## 7. Sales Heatmap (Year vs Month)
+![Sales Heatmap](images/sales_heatmap_by_year_and_month.png)
+
+---
+
+## 8. Customer Analysis
+
+### Customer Segments
+![Customer Segments](images/customer_segment_distribution.png)
+
+### Top Customers
+![Top Customers](images/top_10_customers.png)
+
 ## Project Structure
 - analysis.ipynb
 - Superstore.csv
