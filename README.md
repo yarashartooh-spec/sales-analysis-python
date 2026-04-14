@@ -39,6 +39,10 @@ This project performs an end-to-end sales analysis using the Superstore dataset.
 - Some products show very low sales performance
 
 ## Project Structure
+-analysis.ipynb
+-Superstore.csv
+-README.md
+-visualizations
 
 ## Future Improvements
 - Profit analysis (if dataset available)
